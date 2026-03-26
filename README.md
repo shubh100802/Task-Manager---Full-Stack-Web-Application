@@ -1,4 +1,6 @@
-﻿# Task Manager Pro
+![Status](https://img.shields.io/badge/status-active-success)
+![Tech](https://img.shields.io/badge/stack-MERN-blue)
+ # Task Manager Pro
 
 A full-stack MERN application to manage tasks with secure authentication, clean CRUD workflows, filtering/search, and a simple analytics dashboard.
 
