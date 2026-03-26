@@ -142,4 +142,4 @@ PORT=5000
 **Shubham Raj Sharma**
 
 ---
-Made with ❤️ and modern technologie by shubham raj sharma
+Made with ❤️ and modern technologie by Shubh
