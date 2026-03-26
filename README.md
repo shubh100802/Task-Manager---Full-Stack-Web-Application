@@ -119,8 +119,8 @@ CLIENT_URL=
 If your backend expects `MONGODB_URI`, keep both keys:
 
 ```env
-MONGO_URI=mongodb://127.0.0.1:27017/task-manager
-MONGODB_URI=mongodb://127.0.0.1:27017/task-manager
+MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>/?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://<username>:<password>@<cluster-url>/?retryWrites=true&w=majority
 JWT_SECRET=your_secret_here
 CLIENT_URL=http://localhost:3000
 PORT=5000
