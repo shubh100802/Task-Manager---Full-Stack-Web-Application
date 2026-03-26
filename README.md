@@ -7,6 +7,22 @@ A full-stack MERN application to manage tasks with secure authentication, clean 
 ## 🚀 Overview
 Task Manager Pro helps users organize daily work in one place. It is designed for real usage where priorities change, deadlines matter, and quick progress visibility is important.
 
+## ⚡ Key Highlights
+- Secure JWT Authentication
+- User-specific task isolation
+- Real-time analytics dashboard
+- Clean MVC backend architecture
+
+## 📸 Screenshots
+### Sign In
+![Sign In](./docs/SignIn.png)
+
+### Sign Up
+![Sign Up](./docs/SignUp.png)
+
+### Dashboard
+![Dashboard](./docs/Dashboard.png)
+
 ## 🛠 Tech Stack
 ### Frontend
 - React (Hooks + TypeScript)
