@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:5000/api';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
 
 export interface TaskQueryParams {
   status?: string;
@@ -15,9 +15,6 @@ export interface TaskQueryParams {
 // ========== one axios instance for the whole app ==========
 const api = axios.create({
   baseURL: API_BASE_URL,
-  headers: {
-    'Content-Type': 'application/json',
-  },
 });
 
 // ========== attach token automatically on every request ==========
