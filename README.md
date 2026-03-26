@@ -5,7 +5,7 @@
 A full-stack MERN application to manage tasks with secure authentication, clean CRUD workflows, filtering/search, and a simple analytics dashboard.
 
 ## 🌐 Live Demo
-- Live: https://task-manager-full-stack-web-application-1.onrender.com/login
+- Live: https://task-manager-full-stack-web-application-1.onrender.com
 - Backend: https://task-manager-full-stack-web-application.onrender.com/
 
 ## 🚀 Overview
