@@ -4,6 +4,10 @@
 
 A full-stack MERN application to manage tasks with secure authentication, clean CRUD workflows, filtering/search, and a simple analytics dashboard.
 
+## 🌐 Live Demo
+- Frontend: https://task-manager-full-stack-web-application-1.onrender.com
+- Backend API: https://task-manager-full-stack-web-application.onrender.com
+
 ## 🚀 Overview
 Task Manager Pro helps users organize daily work in one place. It is designed for real usage where priorities change, deadlines matter, and quick progress visibility is important.
 
